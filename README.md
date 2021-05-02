@@ -2,7 +2,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currently working on a few fun projects.
-- 🌱 I’m currently learning about machine learning.
-- 👯 I’m looking to collaborate on a 
-- ⚡ Fun fact: The first person to be accused of speeding was going 8 mph.
+- 👯 I’m 19 years old and currently studying business informatics.
+- ⚡  I’m always working on a fun personal project that I’m interested in.
+- 🔭 I’m currently working on ant optimasiation problems.
+- 🌱 I’m learning about machine learning.
